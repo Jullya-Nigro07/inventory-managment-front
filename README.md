@@ -1,9 +1,8 @@
-# StockHub — Gestão de Estoque
+# Gestão de Estoque
 
 ---
 
 ## 👥 Integrantes
-- Anderson Alberissi 2403321
 - Jullya Nigro 2402577
 - Melissa Moura 2403008
 - Humberto Lisboa 2402662
