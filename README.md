@@ -1,6 +1,9 @@
 # Gestão de Estoque
 
----
+FRONT-END: 
+```bash
+https://github.com/Jullya-Nigro07/Inventory-Managment.git
+```
 
 ## 👥 Integrantes
 - Jullya Nigro 2402577
